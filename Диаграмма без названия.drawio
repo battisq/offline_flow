@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-02T03:20:51.008Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.3.709 Yowser/2.5 Safari/537.36" etag="JP0RIZjMkWGyDRJ_gumS" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-04T04:00:03.300Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.3.709 Yowser/2.5 Safari/537.36" etag="vBH0QfC8R5xayW2VTb8_" version="21.2.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1040" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -102,7 +102,7 @@
         </mxCell>
         <mxCell id="CFUTrTn3aXImpzx6e2lT-86" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CFUTrTn3aXImpzx6e2lT-57" vertex="1" connectable="0">
           <mxGeometry x="-0.2577" y="6" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="1" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CFUTrTn3aXImpzx6e2lT-11" value="Есть интернет?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -456,13 +456,13 @@
         <mxCell id="CFUTrTn3aXImpzx6e2lT-104" value="Отправляем все draft" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1370" y="830" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="obFH9KpQ_kp_TBfn00L7-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="obFH9KpQ_kp_TBfn00L7-0" target="CFUTrTn3aXImpzx6e2lT-26">
+        <mxCell id="obFH9KpQ_kp_TBfn00L7-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="obFH9KpQ_kp_TBfn00L7-0" target="CFUTrTn3aXImpzx6e2lT-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="obFH9KpQ_kp_TBfn00L7-0" value="Снимаем флаг оффлайн старта" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="obFH9KpQ_kp_TBfn00L7-0" value="Снимаем флаг оффлайн старта" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="1260" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="obFH9KpQ_kp_TBfn00L7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="obFH9KpQ_kp_TBfn00L7-2" target="CFUTrTn3aXImpzx6e2lT-92">
+        <mxCell id="obFH9KpQ_kp_TBfn00L7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="obFH9KpQ_kp_TBfn00L7-2" target="CFUTrTn3aXImpzx6e2lT-92" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1240" y="990" />
@@ -470,13 +470,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="obFH9KpQ_kp_TBfn00L7-2" value="Ставим флаг оффлайн финиша" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="obFH9KpQ_kp_TBfn00L7-2" value="Ставим флаг оффлайн финиша" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1181" y="930" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="obFH9KpQ_kp_TBfn00L7-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="obFH9KpQ_kp_TBfn00L7-4" target="CFUTrTn3aXImpzx6e2lT-90">
+        <mxCell id="obFH9KpQ_kp_TBfn00L7-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="obFH9KpQ_kp_TBfn00L7-4" target="CFUTrTn3aXImpzx6e2lT-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="obFH9KpQ_kp_TBfn00L7-4" value="Снимаем флаг оффлайн старта" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="obFH9KpQ_kp_TBfn00L7-4" value="Снимаем флаг оффлайн старта" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1180" y="510" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
